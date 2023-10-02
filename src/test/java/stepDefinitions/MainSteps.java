@@ -82,6 +82,12 @@ public class MainSteps {
 	public void hitUrl()
 	{
 		System.out.println("hit the home page url of banking site");
+		
+		//test git
+		System.out.println("hit the home page url of banking site");
+		System.out.println("hit the home page url of banking site");
+	//	System.out.println("hit the home page url of banking site");
+		
 	}
 	
 	
