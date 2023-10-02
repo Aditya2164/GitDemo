@@ -86,7 +86,7 @@ public class MainSteps {
 		//test git
 		System.out.println("hit the home page url of banking site");
 		System.out.println("hit the home page url of banking site");
-	//	System.out.println("hit the home page url of banking site");
+		System.out.println("test 2 git ignore");
 		
 	}
 	
